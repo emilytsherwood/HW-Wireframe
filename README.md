@@ -1,6 +1,9 @@
 # HW-Wireframe
 Homework Assignment #1
 
-This assignment is the completed assignment! 
+Completed assignment.
 
--Emily
+Link to deploy on Heroku: 
+
+https://mysterious-sands-97253.herokuapp.com
+
