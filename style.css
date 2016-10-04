@@ -1,0 +1,96 @@
+
+body {
+	background-color: #777;
+	text-align: center;
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	font-size: 18px;
+	color: #777;
+	box-sizing: border-box;
+	width: 960px;
+	margin-left: 200px;
+	margin-right: 80px;
+}
+
+header {
+	padding: 30px;
+}
+
+nav {
+	margin: 10px auto 10px auto; /*weird stuff*/
+	padding: 30px;
+}
+
+section {     
+	float: left;
+	background-color: #ebebeb;
+	height: 200px;
+	position: relative;
+  	width: 495px;
+  	padding-top: 15px;
+  }
+
+aside {
+	float: right;
+	background-color: #ebebeb;
+	width: 450px;
+	height: 200px;
+	display: inline-block;
+	padding-top: 15px;
+}
+
+article {
+	float: left;
+	width: 425px;
+	position: relative;
+	padding: 15px;
+	height: 120px;
+	background: #777;
+	border: 1px solid #ebebeb;
+	margin-left: 19px;
+	margin-top: 10px;
+	background-color: #777;
+	color: #ebebeb;
+}
+
+.small {
+	background-color: #ebebeb;
+	width: 420px;
+	height: 50px;
+	font-size: 18px;
+	position: absolute;
+	z-index: 3;
+	color: black;
+	margin-left: 37px;
+}
+
+h3 {
+	color: #777;
+	background-color: #ebebeb;
+	padding: 3px;
+}
+
+p {
+	color: #777;
+	background-color: #ebebeb;
+	padding: 3px;
+}
+
+footer {
+	clear: both;
+	margin-top: 10px;
+	padding: 30px;
+}
+
+.clear {
+	clear: both;
+}
+
+.main {
+	background-color: #ebebeb;
+	display: block;
+}
+
+
+
+
+
