@@ -7,8 +7,7 @@ body {
 	color: #777;
 	box-sizing: border-box;
 	width: 960px;
-	margin-left: 200px;
-	margin-right: 80px;
+	margin: 0 auto;
 }
 
 header {
@@ -16,7 +15,7 @@ header {
 }
 
 nav {
-	margin: 10px auto 10px auto; /*weird stuff*/
+	margin: 10px auto; 
 	padding: 30px;
 }
 
@@ -50,17 +49,6 @@ article {
 	margin-top: 10px;
 	background-color: #777;
 	color: #ebebeb;
-}
-
-.small {
-	background-color: #ebebeb;
-	width: 420px;
-	height: 50px;
-	font-size: 18px;
-	position: absolute;
-	z-index: 3;
-	color: black;
-	margin-left: 37px;
 }
 
 h3 {
